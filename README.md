@@ -13,10 +13,6 @@
 - 🌌 Inspired by space, science, and futuristic technology  
 - 📚 I enjoy learning how software and hardware interact at the lowest level
    
-<p align="center">
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="400"/>
-</p>
----
 
 ## 🛠️ Tech Stack
 
