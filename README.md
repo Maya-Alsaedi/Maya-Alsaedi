@@ -1,6 +1,6 @@
 ## Hello world 👋, I am MAYA
 
-# 👩‍🚀 Maya | Computer Engineering Student  
+# 👩🏼‍🚀 Maya | Computer Engineering Student  
 
 🌌 Exploring the universe of hardware, low-level systems, and code  
 🖥️ Computer Engineering student with a passion for architecture, logic, and space tech
