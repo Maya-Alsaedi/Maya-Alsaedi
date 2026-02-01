@@ -49,3 +49,8 @@
 ---
 
 🛰️ *Building systems, one instruction at a time.*
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="400"/>
+</p>
