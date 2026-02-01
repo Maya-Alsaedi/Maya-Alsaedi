@@ -3,7 +3,7 @@
 # 👩🏼‍🚀 Maya | Computer Engineering Student  
 
 🌌 Exploring the universe of hardware, low-level systems, and code  
-🖥️ Computer Engineering student with a passion for architecture, logic, and space tech
+🖥️ Computer Engineering student with a passion for hardware, logic, and space tech
 
 ---
 
