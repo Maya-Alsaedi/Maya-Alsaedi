@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hello world 👋, I am MAYA
 
-<!--
-**Maya-Alsaedi/Maya-Alsaedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍🚀 Maya | Computer Engineering Student  
 
-Here are some ideas to get you started:
+🌌 Exploring the universe of hardware, low-level systems, and code  
+🖥️ Computer Engineering student with a passion for architecture, logic, and space tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 Computer Engineering student  
+- 🧠 Interested in hardware, computer architecture, and low-level programming  
+- 🌌 Inspired by space, science, and futuristic technology  
+- 📚 I enjoy learning how software and hardware interact at the lowest level  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- C++
+- Java
+- Python
+- MIPS Assembly
+- HTML
+
+### 🔧 Tools & Environment
+- Git & GitHub  
+- Visual Studio Code  
+
+---
+
+## 🌠 Interests
+- 🎮 Gaming  
+- 🚀 Space & Astronomy  
+- 📖 Reading books  
+
+---
+
+## 📡 Connect With Me
+- 💼 LinkedIn: [eng-maya](https://www.linkedin.com/in/eng-maya-47746b379)  
+- 🐦 Twitter (X): [@_ixou](https://x.com/_ixou)
+
+---
+
+## ✨ Quote I Like
+> *"Somewhere, something incredible is waiting to be known."* — Carl Sagan  
+
+---
+
+🛰️ *Building systems, one instruction at a time.*
