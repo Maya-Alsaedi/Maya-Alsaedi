@@ -11,8 +11,11 @@
 - 🎓 Computer Engineering student  
 - 🧠 Interested in hardware, computer architecture, and low-level programming  
 - 🌌 Inspired by space, science, and futuristic technology  
-- 📚 I enjoy learning how software and hardware interact at the lowest level  
-
+- 📚 I enjoy learning how software and hardware interact at the lowest level
+   
+<p align="center">
+  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="400"/>
+</p>
 ---
 
 ## 🛠️ Tech Stack
@@ -51,6 +54,3 @@
 🛰️ *Building systems, one instruction at a time.*
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="400"/>
-</p>
